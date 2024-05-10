@@ -9,4 +9,5 @@ pip install  -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tun
 # 切换到gpt-sovits安装好的根目录
 git clone https://github.com/CyberWon/webtts_v2
 # 执行webtts_v2/start.sh启动即可。
+sh webtts_v2/start.sh
 ```
